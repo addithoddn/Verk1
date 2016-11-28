@@ -2,5 +2,5 @@
 
 ComputerScientistService::ComputerScientistService()
 {
-    s;
+
 }
